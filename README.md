@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a>
-    <img width="500px" height="500px" src="logo.png" alt="Logo" width="80" height="80">
+    <img width="500px" height="500px" src="img.png" alt="Logo" width="80" height="80">
   </a>
 </div>
 
@@ -30,5 +30,5 @@
 
 Esta aplicação movél foi desenvolvida num espaço de 13 semanas, com as seguintes tecnologias:
 
-* [Phaser](https://kotlinlang.org/)
-* [Visual Studio Code](https://developer.android.com/studio/)
+* [Phaser](https://phaser.io)
+* [Visual Studio Code](https://code.visualstudio.com)
